@@ -13,7 +13,7 @@ title: 1920x1080 16:9
 roleButtons:
   location: [41, 215]
   size: [68, 68]
-  spacing: [11, 11]
+  spacing: [2, 2]
 # --------------------------------------------------
 # The location of the agent buttons
 # location: the top left most pixel of the first agent button [x, y]
@@ -24,7 +24,7 @@ agentButtons:
   location: [40, 302]
   size: [91, 91]
   spacing: [8, 8]
-  grid: [6, 4]
+  grid: [5, 4]
 # --------------------------------------------------
 # The location of the lock button
 # size: size of the lock button
